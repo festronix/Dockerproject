@@ -1,4 +1,4 @@
-# dockerproject
+# Docker project using wordpress and mysql
 
 This is my first docker project based on mysql and wordpress. 
 
