@@ -38,3 +38,6 @@ Now its time to check that database is created or not then you have to install M
 Type docker ps then it will show you the containers then type docker inspect **** (starting letter of your IP) |grep IP. Then type which mysql it will show you the location then type rpm -qf / location then yum install mysql then type mysql -h IP -u **** -p*****
 
 then type ifconfig to get the IP of your OS and copy that IP and add your port number will show you the website.
+
+
+
